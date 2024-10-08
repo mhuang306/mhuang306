@@ -7,4 +7,4 @@ I'm a third-year **Computer Science** student at **The University of British Col
 - **Web Development**: NodeJS, Express, HTML/CSS, JavaScript
 - **Databases**: MongoDB, Oracle, MySQL.
 
-Find me at https://www.linkedin.com/in/michael-huang-ca/
+Find me [linkedin]([https://link-url-here.org](https://www.linkedin.com/in/michael-huang-ca/))
